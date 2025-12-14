@@ -39,7 +39,6 @@ Cme_detection_Phased2/backend/scripts/7_days_forecast/*.csv
 Cme_detection_Phased2/backend/downloads/*.cdf
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -50,5 +49,4 @@ Cme_detection_Phased2/backend/downloads/*.cdf
 Thumbs.db
 
 # Environment
-.env
-.env.local
+config.bat
